@@ -1,16 +1,19 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22">
 
-<!--
-**BrunnoSantos1/BrunnoSantos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&color=008B8B&font=Rubik&center=true&width=1000%&lines=Hello!!!;My+Name+is+Bruno+Santos;I'm+CS+Student+and+Software+Developer;I'm+From+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div>
+<img width=100% src="https://github-readme-activity-graph.cyclic.app/graph?username=BrunnoSantos1&bg_color=00000&color=008B8B&line=483D8B&point=008B8B&&area_color=FFFFFF&area=true&hide_border=true&radius=10&hide_title=true">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+<img width=49% src="https://github-readme-stats.vercel.app/api?username=BrunnoSantos1&bg_color=DEG,483D8B,008B8B&text_color=D3D3D3&title_color=DCDCDC&show_icons=true&icon_color=20B2AA&hide_border=true&border_radius=10&include_all_commits=true&hide_title=true">
+<img width=41% src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunnoSantos1&layout=compact&bg_color=DEG,483D8B,008B8B&text_color=D3D3D3&hide_border=true&border_radius=10&hide_title=true">
+</div>
+<div align=center> 
+  <a href="https://www.linkedin.com/in/brunno-santos1/">
+ <img width=20% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">              
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22&section=footer">
