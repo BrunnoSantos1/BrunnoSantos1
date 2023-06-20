@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&color=008B8B&font=Rubik&center=true&width=1000%&lines=Hello!!!;My+Name+is+Bruno+Santos;I'm+CS+Student+and+Software+Developer;I'm+From+Brazil;Be+Welcome!)](https://git.io/typing-svg)
-
-<div>
-<img width=100% src="https://github-readme-activity-graph.cyclic.app/graph?username=BrunnoSantos1&bg_color=00000&color=008B8B&line=483D8B&point=008B8B&&area_color=FFFFFF&area=true&hide_border=true&radius=10&hide_title=true">
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=35&color=008B8B&font=Rubik&center=true&width=1000%&lines=Hello!!!;My+Name+is+Bruno+Santos;I'm+From+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align=center>
 <img width=49% src="https://github-readme-stats.vercel.app/api?username=BrunnoSantos1&bg_color=DEG,483D8B,008B8B&text_color=D3D3D3&title_color=DCDCDC&show_icons=true&icon_color=20B2AA&hide_border=true&border_radius=10&include_all_commits=true&hide_title=true">
