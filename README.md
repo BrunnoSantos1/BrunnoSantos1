@@ -8,8 +8,9 @@ Hello,  I'm 24 years old and I'm a developer.
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=BrunnoSantos1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrunnoSantos1&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoSantos1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoSantos1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrunnoSantos1&theme=tokyonight&hide_border=false)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
