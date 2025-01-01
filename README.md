@@ -15,9 +15,8 @@ Hello,  I'm 24 years old and I'm a developer.
 [![](https://visitcount.itsvg.in/api?id=BrunnoSantos1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22&section=footer">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunnoSantos1/BrunnoSantos1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunnoSantos1/BrunnoSantos1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunnoSantos1/BrunnoSantos1/output/github-contribution-grid-snake.svg">
 </picture>
