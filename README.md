@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22">
 
 # 💫About Me :
-Hello,  I'm 24 years old and I'm a developer.
+Hello,  I'm Bruno.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunno-santos1/) 
