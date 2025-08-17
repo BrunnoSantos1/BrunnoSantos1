@@ -1,10 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22">
-
-# 💫 About Me:
+# About Me:
 Hello, I'm Bruno!!!<br>'m a Backend Developer with focus in Java and Spring Boot.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brunno-santos1/) 
 
 # 💻 Tech Stack:
@@ -13,9 +11,6 @@ Hello, I'm Bruno!!!<br>'m a Backend Developer with focus in Java and Spring Boot
 ![](https://github-readme-stats.vercel.app/api?username=BrunnoSantos1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BrunnoSantos1&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoSantos1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=22&section=footer">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunnoSantos1/BrunnoSantos1/output/github-contribution-grid-snake-dark.svg">
