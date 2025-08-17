@@ -1,5 +1,5 @@
 # About Me:
-Hello, I'm Bruno!!!<br>'m a Backend Developer with focus in Java and Spring Boot.
+Hello, I'm a Backend Developer with focus in Java and Spring Boot.
 
 
 ## Socials:
